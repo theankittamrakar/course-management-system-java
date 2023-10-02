@@ -1,0 +1,5 @@
+Admins	4
+Herald	College	0000	Admin
+Rajesh	Hamal	1234	Admin
+Prakash	Gautam	1111	Admin
+Gabbar	Singh	9999	Admin
